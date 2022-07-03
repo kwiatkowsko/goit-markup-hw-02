@@ -48,6 +48,7 @@ body {
     top: 24px;
 
     font-family: "Raleway";
+    font-style: normal;
     font-size: 26px;
     line-height: 1.19;
 
@@ -291,6 +292,7 @@ body {
 }
 .web-studio2 {
     font-family: "Raleway";
+    font-style: normal;
     font-size: 26px;
     line-height: 1.19;
 
@@ -299,6 +301,7 @@ body {
     text-decoration: none;
 }
 .adress {
+    font-style: normal;
     width: 246px;
     height: 21px;
     left: 215px;
@@ -314,7 +317,7 @@ body {
     line-height: 1.71;
     text-decoration: none;
     letter-spacing: 0.03em;
-
+    font-style: normal;
     color: rgba(255, 255, 255, 0.6);
 }
 .tel-mail:hover,
